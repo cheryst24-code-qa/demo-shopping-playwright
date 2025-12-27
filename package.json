@@ -1,0 +1,20 @@
+{
+  "name": "demo-shopping-playwright",
+  "version": "1.0.0",
+  "description": "Автоматизированные тесты для demoshopping.ru",
+  "scripts": {
+    "test": "npx playwright test",
+    "report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.57.0"
+  },
+  "main": "playwright.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
