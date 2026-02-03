@@ -1,0 +1,1 @@
+![Демо работы](https://skrinshoter.ru/vZtPxHNSfMT)
